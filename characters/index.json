@@ -1,0 +1,23 @@
+{
+  "format": 1,
+  "characters": [
+    {
+      "id": "dragon",
+      "version": 1,
+      "manifestUrl": "https://raw.githubusercontent.com/liebe842/todak-releases/main/characters/dragon/character.json",
+      "manifestSha256": "a5b217b2b0d612aff14f392a38ee06d5480bf98b0b56e81b154d0b5da03a4f0a"
+    },
+    {
+      "id": "jelly",
+      "version": 1,
+      "manifestUrl": "https://raw.githubusercontent.com/liebe842/todak-releases/main/characters/jelly/character.json",
+      "manifestSha256": "b5eb6c981f1cfe4013a8c41c1871b90e675bfbd3f0b4b89697789cf46344a80f"
+    },
+    {
+      "id": "sprout",
+      "version": 2,
+      "manifestUrl": "https://raw.githubusercontent.com/liebe842/todak-releases/main/characters/sprout/character.json",
+      "manifestSha256": "b4325d72f99332743ebc7e8cd762c7d3e7aad21a28660a42645a5b8c57c93bc3"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "id": "sprout",
+  "version": 2,
+  "name": {
+    "ko": "새싹 정령"
+  },
+  "stages": {
+    "egg": {
+      "poses": {
+        "idle": "egg-idle.png",
+        "crack": "egg-crack.png"
+      },
+      "height": 96
+    },
+    "baby": {
+      "poses": {
+        "idle": "baby-idle.png",
+        "happy": "baby-happy.png",
+        "sleep": "baby-sleep.png",
+        "sad": "baby-sad.png"
+      },
+      "height": 112,
+      "slots": {
+        "head": {
+          "x": 0.5,
+          "y": 0.27
+        },
+        "neck": {
+          "x": 0.5,
+          "y": 0.86
+        },
+        "face": {
+          "x": 0.5,
+          "y": 0.6
+        }
+      }
+    },
+    "child": {
+      "poses": {
+        "idle": "child-idle.png",
+        "happy": "child-happy.png",
+        "sleep": "child-sleep.png",
+        "sad": "child-sad.png"
+      },
+      "height": 136,
+      "slots": {
+        "head": {
+          "x": 0.5,
+          "y": 0.2
+        },
+        "neck": {
+          "x": 0.5,
+          "y": 0.8
+        },
+        "face": {
+          "x": 0.5,
+          "y": 0.51
+        }
+      }
+    },
+    "adult": {
+      "poses": {
+        "idle": "adult-idle.png",
+        "happy": "adult-happy.png",
+        "sleep": "adult-sleep.png",
+        "sad": "adult-sad.png"
+      },
+      "height": 160,
+      "slots": {
+        "head": {
+          "x": 0.72,
+          "y": 0.28
+        },
+        "neck": {
+          "x": 0.5,
+          "y": 0.8
+        },
+        "face": {
+          "x": 0.5,
+          "y": 0.54
+        }
+      }
+    }
+  },
+  "files": [
+    {
+      "path": "adult-happy.png",
+      "sha256": "db52559dfbd8b79d7abe9c71617970d7fb6e6ad9b075f3f1d5514ac6bb501aa0",
+      "bytes": 121716
+    },
+    {
+      "path": "adult-idle.png",
+      "sha256": "c535ad36aa1b991dea04a2d3ac39c5bf8225cf24b61b7ee1ba91b6b6a725583e",
+      "bytes": 121023
+    },
+    {
+      "path": "adult-sad.png",
+      "sha256": "7cdda9f6f6c75ef2bc671a41b2b3d740eded167b96294ddc692478bc4559a41e",
+      "bytes": 121536
+    },
+    {
+      "path": "adult-sleep.png",
+      "sha256": "54e0372558da9993edbeda0a1f8ab6cd17f05f41815c734505bcda81edc43fbf",
+      "bytes": 120128
+    },
+    {
+      "path": "baby-happy.png",
+      "sha256": "b7c3921b6f3c690bf3c2be9fe7e83c893377f972c49945fecb384999e98d8cfc",
+      "bytes": 51358
+    },
+    {
+      "path": "baby-idle.png",
+      "sha256": "f76bdc7042b890b18d420244265b8841f654ac915fc33b6f2670555e5bcfa9e9",
+      "bytes": 51845
+    },
+    {
+      "path": "baby-sad.png",
+      "sha256": "887256fc9d28966f66fc3d1037cfe3b47289f38e92b33b6cbf000defc561aaa4",
+      "bytes": 51496
+    },
+    {
+      "path": "baby-sleep.png",
+      "sha256": "1790bc23d2e8e4f2a5cd7341e24ce3ae48839c9753a0ea18d86fffc9adf360c3",
+      "bytes": 49093
+    },
+    {
+      "path": "child-happy.png",
+      "sha256": "667000b0ca88c7c2481d3589c8e117e06f78315a3f1459e863f60661d741f99a",
+      "bytes": 76359
+    },
+    {
+      "path": "child-idle.png",
+      "sha256": "ca3faa658da04d5061e30661b890ed7546d12c86c851adc86d6f7c83f5af8a78",
+      "bytes": 77834
+    },
+    {
+      "path": "child-sad.png",
+      "sha256": "8562682f1f42e8a1d1fc659d03d3f1c7f51643c12ba7eb90f7cfcbb991d668d5",
+      "bytes": 72195
+    },
+    {
+      "path": "child-sleep.png",
+      "sha256": "96130b1ba4bf84511d5bcd0e69df6c98f6c9fbf77b029c1ca16fe68979d489c7",
+      "bytes": 73772
+    },
+    {
+      "path": "egg-crack.png",
+      "sha256": "e3c3a14b0d6ea368e68db0921604b12547a479917ccd999a61e23cee6099e207",
+      "bytes": 40377
+    },
+    {
+      "path": "egg-idle.png",
+      "sha256": "0fc754b4ca172d22020eb33dc6aa08a9911ac9785d60c5932eb29fc67bce4116",
+      "bytes": 37150
+    }
+  ]
+}

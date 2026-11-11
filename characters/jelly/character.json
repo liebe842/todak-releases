@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "id": "jelly",
+  "version": 1,
+  "name": {
+    "ko": "말랑 젤리"
+  },
+  "stages": {
+    "egg": {
+      "poses": {
+        "idle": "egg-idle.png",
+        "crack": "egg-crack.png"
+      },
+      "height": 96
+    },
+    "baby": {
+      "poses": {
+        "idle": "baby-idle.png",
+        "happy": "baby-happy.png",
+        "sleep": "baby-sleep.png",
+        "sad": "baby-sad.png"
+      },
+      "height": 112,
+      "slots": {
+        "head": {
+          "x": 0.5,
+          "y": 0.11
+        },
+        "neck": {
+          "x": 0.5,
+          "y": 0.75
+        },
+        "face": {
+          "x": 0.5,
+          "y": 0.37
+        }
+      }
+    },
+    "child": {
+      "poses": {
+        "idle": "child-idle.png",
+        "happy": "child-happy.png",
+        "sleep": "child-sleep.png",
+        "sad": "child-sad.png"
+      },
+      "height": 136,
+      "slots": {
+        "head": {
+          "x": 0.5,
+          "y": 0.18
+        },
+        "neck": {
+          "x": 0.5,
+          "y": 0.76
+        },
+        "face": {
+          "x": 0.5,
+          "y": 0.38
+        }
+      }
+    },
+    "adult": {
+      "poses": {
+        "idle": "adult-idle.png",
+        "happy": "adult-happy.png",
+        "sleep": "adult-sleep.png",
+        "sad": "adult-sad.png"
+      },
+      "height": 160,
+      "slots": {
+        "head": {
+          "x": 0.8,
+          "y": 0.2
+        },
+        "neck": {
+          "x": 0.5,
+          "y": 0.78
+        },
+        "face": {
+          "x": 0.5,
+          "y": 0.41
+        }
+      }
+    }
+  },
+  "files": [
+    {
+      "path": "adult-happy.png",
+      "sha256": "318c07aedc05c1b1606a509be75eb41ca610bdfdbc6e5dec136e4659cb25a172",
+      "bytes": 122253
+    },
+    {
+      "path": "adult-idle.png",
+      "sha256": "2baf82b70e8804495e68a9404103136f5e8bbb3e85a25209e4e5a11b7b3a79f7",
+      "bytes": 124370
+    },
+    {
+      "path": "adult-sad.png",
+      "sha256": "55d846317393b81a84453b32bfaf3bafdf9060c0ea2df4b5ae59a04d0b010a4d",
+      "bytes": 121818
+    },
+    {
+      "path": "adult-sleep.png",
+      "sha256": "562a534dd212da9a1c01cb9145f889c5a459478201d5f226224e6ca4ec9fcb7d",
+      "bytes": 124727
+    },
+    {
+      "path": "baby-happy.png",
+      "sha256": "24d198d16db03db699f01ad97ab63c079775395f974d9c6d9bfb2cab785139dc",
+      "bytes": 69775
+    },
+    {
+      "path": "baby-idle.png",
+      "sha256": "bacde13404f4426019e116f08edcd931629dbaa2cc54323f720cf669fcedf68c",
+      "bytes": 73933
+    },
+    {
+      "path": "baby-sad.png",
+      "sha256": "e5102b7742dbe9b0924014cf3511c49c1a12e62239bd071ff04beb80af4f7e13",
+      "bytes": 74863
+    },
+    {
+      "path": "baby-sleep.png",
+      "sha256": "b88adaf0e3c24a01ed73c8b992e4e9c3b536b7c36108822ab74ae348e3356309",
+      "bytes": 67639
+    },
+    {
+      "path": "child-happy.png",
+      "sha256": "337326df3a190e5188fed74325db57f76eb17a93d2c22c8a276e692b6c7d325e",
+      "bytes": 96344
+    },
+    {
+      "path": "child-idle.png",
+      "sha256": "89761af8489635c3e7d8b7ee164639085f49bbc303f2c285a81004cb58cbc14f",
+      "bytes": 96910
+    },
+    {
+      "path": "child-sad.png",
+      "sha256": "afaf35a69ee76f43c2cdd0a085d02ed36c39517dfb860e0ec331bb33c2b822cb",
+      "bytes": 90342
+    },
+    {
+      "path": "child-sleep.png",
+      "sha256": "03c69d9005e776449f0d95eb9751295ea6330596620aadd3ae7be577d83c69f3",
+      "bytes": 90743
+    },
+    {
+      "path": "egg-crack.png",
+      "sha256": "ba8e66e6e7545c83f1be89c28a71aefe4541962642f1a4c8ff5aac702fe63afd",
+      "bytes": 39323
+    },
+    {
+      "path": "egg-idle.png",
+      "sha256": "f9c52053870ea8c2287f2c3c2adb1a04b923902d9aa7feb895ee3f78d0030654",
+      "bytes": 34909
+    }
+  ]
+}
